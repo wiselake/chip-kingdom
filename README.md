@@ -13,6 +13,15 @@ ChipKingdom은 ERC-20/BEP-20 표준을 준수하는 블록체인 토큰입니다
 - **블록 탐색기 URL**: https://testnet.bscscan.com
 - **토큰 계약주소**: 0xe977F1BF1A3C1A52aF223207419b5291BC98bA29
 
+## 메인 넷 정보
+
+- **네트워크 이름**: Binance Smart Chain
+- **새 RPC URL**: https://bsc-mainnet.infura.io/ (만일 연결이 안된다면 https://bsc-dataseed.binance.org/)
+- **체인 ID**: 56
+- **통화 기호**: BNB
+- **블록 탐색기 URL**: https://bscscan.com
+- **토큰 계약주소**: 0xe977f1bf1a3c1a52af223207419b5291bc98ba29
+
 ## 토큰 정보
 
 - **이름**: ChipKingdom
@@ -20,6 +29,7 @@ ChipKingdom은 ERC-20/BEP-20 표준을 준수하는 블록체인 토큰입니다
 - **총 공급량**: 10,000,000,000 CHIP (100억개)
 - **소수점**: 18자리
 - **표준**: ERC-20/BEP-20 호환
+- **토큰 계약주소**: 0xe977f1bf1a3c1a52af223207419b5291bc98ba29
 
 ## 주요 기능
 
@@ -76,7 +86,7 @@ ChipKingdom은 ERC-20/BEP-20 표준을 준수하는 블록체인 토큰입니다
 
 ## 배포 정보
 
-- **Solidity 버전**: ^0.8.20
+- **Solidity 버전**: ^0.8.24
 - **라이선스**: MIT
 - **초기 배포**: 모든 토큰이 배포자에게 발행됨
 
